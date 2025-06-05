@@ -18,7 +18,6 @@ Built with Python and powered by OpenRouter AI (LLaMA 4 Maverick), Shinrai is yo
 - **Chat with LLaMA 4** via OpenRouter API
 - **Command Support** (open sites, search, clear, help)
 - **History Logging** and Review
-- **Simple Terminal UI** with ASCII banner
 
 ---
 
@@ -58,6 +57,7 @@ API_KEY = "ENTER YOUR API KEY HERE"
 ---
 
 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
