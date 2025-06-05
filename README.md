@@ -44,6 +44,22 @@ python3 main.py
 - openai (OpenRouter client)
 - gTTS
 - mpv (for audio playback)
+  Debian / Ubuntu / Linux Mint:
+  ```bash
+  sudo apt update
+  sudo apt install mpv -y
+  ```
+  
+  Arch / Manjaro:
+  ```bash
+  sudo pacman -S mpv
+  ```
+
+  Fedora / RHEL / CentOS (with EPEL):
+  ```bash
+  sudo dnf install mpv
+  ```
+
 
 ---
 
