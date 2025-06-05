@@ -10,7 +10,7 @@ from gtts import gTTS
 # Initialize conversation and engine
 conversation_history = []
 
-API_KEY = "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"
+
 API_KEY = "ENTER YOUR API KEY HERE"
 
 
