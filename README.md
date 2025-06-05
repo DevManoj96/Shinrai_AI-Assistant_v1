@@ -44,6 +44,7 @@ python3 main.py
 - openai (OpenRouter client)
 - gTTS
 - mpv (for audio playback)
+
   Debian / Ubuntu / Linux Mint:
   ```bash
   sudo apt update
