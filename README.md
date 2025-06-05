@@ -48,8 +48,7 @@ python3 main.py
 ---
 
 ## 🔐 API Key
-Get Your API KEY from http://openrouter.ai/
-Update API KEY in the Assistant
+Get Your API KEY from http://openrouter.ai/ and Update API KEY in the Assistant
 
 ```bash
 API_KEY = "ENTER YOUR API KEY HERE"
